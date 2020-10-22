@@ -2,7 +2,7 @@
   "name": "zoom-gallery-view-cropping",
   "version": "1.0.0",
   "description": "sample nodejs file",
-  "main": "index.js",
+  "main": "app.js",
   "private": true,
   "scripts": {
     "test": "node app.js"
