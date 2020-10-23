@@ -1,0 +1,31 @@
+{
+  "name": "zoom-gallery-view-cropping",
+  "version": "1.0.0",
+  "description": "sample nodejs file",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurfEdge/zoom-gallery-view-cropping.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "rmkanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SurfEdge/zoom-gallery-view-cropping.git"
+  },
+  "homepage": "",
+  "engines": {
+    "node": "14.12.0",
+    "npm": "6.14.8"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
