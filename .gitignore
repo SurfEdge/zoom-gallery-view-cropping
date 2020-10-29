@@ -1,2 +1,8 @@
 node_modules/
 package-lock.json
+yarn.lock
+
+images/*
+!images/.keep
+
+zoom-safe-region.png
